@@ -1,5 +1,5 @@
 #tag Window
-Begin Window Window2
+Begin Window DirectoryCountExample
    BackColor       =   &hFFFFFF
    Backdrop        =   ""
    CloseButton     =   True
@@ -21,7 +21,7 @@ Begin Window Window2
    MinWidth        =   64
    Placement       =   0
    Resizeable      =   True
-   Title           =   "Untitled"
+   Title           =   "Directory Count"
    Visible         =   True
    Width           =   600
    Begin Thread Thread1
